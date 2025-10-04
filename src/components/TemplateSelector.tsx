@@ -18,7 +18,6 @@ export default function TemplateSelector() {
   };
 
   const handlePreview = () => {
-    // Allow preview without login - just show the template preview
     navigate(`/preview?template=${selectedTemplate}`);
   };
 
