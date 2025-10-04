@@ -13,9 +13,7 @@ import {
   Globe,
   Monitor,
   Smartphone,
-  Zap,
-  Layers
-} from 'lucide-react';
+  Zap} from 'lucide-react';
 
 interface FrontendTemplateProps {
   data: PortfolioState;

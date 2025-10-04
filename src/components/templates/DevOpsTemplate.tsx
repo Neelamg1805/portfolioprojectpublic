@@ -10,8 +10,6 @@ import {
   Download,
   Server,
   Cloud,
-  Code,
-  Shield,
   Zap,
   Layers,
   Settings

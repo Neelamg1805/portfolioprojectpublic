@@ -1,6 +1,6 @@
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { Button } from "./ui/button.tsx";
-import { Download, Settings, LogOut, User } from "lucide-react";
+import { Download, LogOut, User } from "lucide-react";
 import { useSelector } from "react-redux";
 import { RootState } from "../store/index.ts";
 import { downloadPortfolioSource } from "../lib/download.ts";

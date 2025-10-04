@@ -11,8 +11,6 @@ import {
   Server,
   Database,
   Code,
-  Shield,
-  Zap,
   Layers,
   Cloud
 } from 'lucide-react';

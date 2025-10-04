@@ -11,8 +11,6 @@ import {
   Brain,
   Code,
   Database,
-  Zap,
-  Layers,
   TrendingUp,
   Cpu
 } from 'lucide-react';
